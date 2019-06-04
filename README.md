@@ -1,4 +1,4 @@
 # selenium-demo
 
 
-启动: `yarn test`
+启动: `npm test`
